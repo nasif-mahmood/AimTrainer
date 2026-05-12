@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/54a7ec79-84a2-497c-9471-0ef3f00bdb29
+
 # Aim Trainer
 
 A Python-based aim training game designed to improve your mouse accuracy and reaction time.
@@ -5,7 +9,7 @@ A Python-based aim training game designed to improve your mouse accuracy and rea
 ## 🎮 Gameplay Screenshots
 
 ### Game Demo
-![Game Demo](https://github.com/user-attachments/assets/c0601a36-1a26-4bb5-bf57-7de7e583550d)
+![Game Demo](https://github.com/user-attachments/assets/54a7ec79-84a2-497c-9471-0ef3f00bdb29)
 
 ## 🛠️ Technologies & Tools
 
