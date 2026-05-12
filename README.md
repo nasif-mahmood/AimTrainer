@@ -5,7 +5,7 @@ A Python-based aim training game designed to improve your mouse accuracy and rea
 ## 🎮 Gameplay Screenshots
 
 ### Game Demo
-![Game Demo](https://github.com/user-attachments/assets/54a7ec79-84a2-497c-9471-0ef3f00bdb29)
+https://github.com/user-attachments/assets/54a7ec79-84a2-497c-9471-0ef3f00bdb29
 
 ## 🛠️ Technologies & Tools
 
